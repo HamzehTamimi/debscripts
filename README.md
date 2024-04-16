@@ -34,5 +34,5 @@ sudo mkdir -p $debdir
 
 
 ## Download debscripts
-debscritps are grouped alphabetically in the debscripts folder in the repository source code, find what package you need and download its debscript! 
+debscripts are grouped alphabetically in the debscripts folder in the repository source code, find what package you need and download its debscript! 
 
