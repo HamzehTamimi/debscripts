@@ -31,8 +31,6 @@ sudo mkdir -p $debdir
 ) >/dev/null
 
 ```
-    
-## Download debscripts 
 
 
 ## Download debscripts 
