@@ -34,3 +34,9 @@ sudo mkdir -p $debdir
     
 ## Download debscripts 
 
+
+## Download debscripts 
+
+- [minecraft-launcher](https://raw.githubusercontent.com/HamzehTamimi/debscripts/main/minecraft-launcher.sh)
+- [parsec](https://raw.githubusercontent.com/HamzehTamimi/debscripts/main/parsec.sh)
+
